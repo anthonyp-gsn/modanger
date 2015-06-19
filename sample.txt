@@ -1,0 +1,4 @@
+This is a sample text fileTHISAd
+Another line of text.Aj
+LOOK! This File is Opened like Magic! Now I can edit it.
+One more thing, hi!
